@@ -19,7 +19,7 @@ class _LauncherState extends State<Launcher> {
   final List<Widget> _pageWidget = <Widget>[
     const Home(),
     MyApptwo(),
-    Text('list of objectivesss'),
+    Text('list of objectivesssaaa'),
   ];
   final List<BottomNavigationBarItem> _menuBar = <BottomNavigationBarItem>[
     BottomNavigationBarItem(
